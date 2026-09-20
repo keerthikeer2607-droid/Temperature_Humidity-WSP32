@@ -78,7 +78,7 @@ Team Members:
 Sreethan , Jewel Mary Jibi
 
 13. Wokwi Project Link
-https://wokwi.com/projects/new/micropython-esp32
+https://wokwi.com/projects/475682178620641281
 
 14. ThingSpeak Channel Link
 https://thingspeak.mathworks.com/channels/3500612/private_show
