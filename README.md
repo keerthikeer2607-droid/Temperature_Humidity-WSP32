@@ -1,9 +1,11 @@
 ESP32 Temperature and Humidity Monitoring
 
-1. Project Title:
+1. Project Title
+
 ESP32 Temperature and Humidity Monitoring Using DHT22 and ThingSpeak
 
-2. Problem Statement:
+2. Problem Statement
+
 Monitoring temperature and humidity is useful in many environments. This project uses an ESP32 and DHT22 sensor to measure temperature and humidity and sends the collected data to the ThingSpeak cloud platform for monitoring through graphs.
 
 3. Objectives
