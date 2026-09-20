@@ -30,6 +30,7 @@ The DHT22 sensor is connected to the ESP32 as follows:
 - DHT22 VCC → ESP32 3V3
 - DHT22 DATA → ESP32 GPIO 15
 - DHT22 GND → ESP32 GND
+  
 Circuit diagram: "circuit_diagram.png"
 
 6. Working Principle
@@ -46,7 +47,9 @@ The Wokwi Serial Monitor displays the temperature, humidity and ThingSpeak respo
 ThingSpeak displays:
 - Field 1 → Temperature
 - Field 2 → Humidity
+  
 Output screenshot: "wokwi_output.png"
+
 ThingSpeak graph: "thingspeak_output.png"
 
 9. Applications
