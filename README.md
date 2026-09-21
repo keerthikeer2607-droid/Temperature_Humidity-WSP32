@@ -2,7 +2,7 @@ ESP32 Temperature and Humidity Monitoring
 
 1. Project Title
 
-ESP32 Temperature and Humidity Monitoring Using DHT22 and ThingSpeak
+EnviroTrack: IoT-Based Temperature and Humidity Monitoring Using ESP32 and DHT22
 
 2. Problem Statement
 
