@@ -31,11 +31,9 @@ The DHT22 sensor is connected to the ESP32 as follows:
 - DHT22 DATA → ESP32 GPIO 15
 - DHT22 GND → ESP32 GND
   
-Circuit diagram: ## Circuit Diagram
+Circuit diagram: 
 
-[![Circuit Diagram](circuit_diagram1.png)]circuit_diagram1.png)
-
-
+[![Circuit Diagram](circuit%20diagram1.png)](circuit%20diagram1.png)
 
 
 6. Working Principle
