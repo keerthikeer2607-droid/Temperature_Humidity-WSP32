@@ -33,7 +33,8 @@ The DHT22 sensor is connected to the ESP32 as follows:
   
 Circuit diagram: ## Circuit Diagram
 
-[![Circuit Diagram](circuit diagram1.png)](circuit diagram1.png)
+[![Circuit Diagram](circuit_diagram1.png)]circuit_diagram1.png)
+
 
 
 
