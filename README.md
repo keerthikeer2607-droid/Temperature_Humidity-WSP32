@@ -31,7 +31,11 @@ The DHT22 sensor is connected to the ESP32 as follows:
 - DHT22 DATA → ESP32 GPIO 15
 - DHT22 GND → ESP32 GND
   
-Circuit diagram: "circuit_diagram.png"
+Circuit diagram: ## Circuit Diagram
+
+[![Circuit Diagram](circuit diagram1.png)](circuit diagram1.png)
+
+
 
 6. Working Principle
 The DHT22 sensor measures temperature and humidity from the surrounding environment. The ESP32 reads these values through GPIO 15. The ESP32 connects to Wi-Fi and sends the sensor readings to the ThingSpeak cloud platform. Temperature is stored in Field 1 and humidity is stored in Field 2. ThingSpeak displays the received data using graphs.
