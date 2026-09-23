@@ -33,7 +33,7 @@ The DHT22 sensor is connected to the ESP32 as follows:
   
 Circuit diagram: 
 
-[![Circuit Diagram](circuit%20diagram1.png)](circuit%20diagram1.png)
+[Circuit Diagram](circuit%20diagram1.png)
 
 
 6. Working Principle
@@ -54,7 +54,7 @@ ThingSpeak displays:
 Output screenshot: [Wowki_Output](wowki_output1.png)
 
 
-ThingSpeak graph: "thingspeak_output.png"
+ThingSpeak graph:[ThinkSpeak Graph](Thinkspeak_output.png)
 
 9. Applications
 - Environmental monitoring
@@ -79,7 +79,7 @@ ThingSpeak graph: "thingspeak_output.png"
 Name: Keerthi A
 Register Number: U03ZW24S0097
 Team Members:
-Sreethan , Jewel Mary Jibi
+Sreethan , Jewel Mary Jibi,Thejaswini.C
 
 13. Wokwi Project Link
 https://wokwi.com/projects/475682178620641281
