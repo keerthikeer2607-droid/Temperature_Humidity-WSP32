@@ -51,7 +51,7 @@ ThingSpeak displays:
 - Field 1 → Temperature
 - Field 2 → Humidity
   
-Output screenshot: [wokwi_output1](wokwi_output1.png)
+Output screenshot: [Wokwi_Output](wokwi_output1.png)
 
 
 ThingSpeak graph: "thingspeak_output.png"
