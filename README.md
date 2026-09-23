@@ -54,7 +54,7 @@ ThingSpeak displays:
 Output screenshot: [Wowki_Output](wowki_output1.png)
 
 
-ThingSpeak graph:[ThinkSpeak Graph](Thinkspeak%20graph%20.png)
+ThingSpeak graph:[ThinkSpeak Graph](Thinkspeakgraph.png)
 
 9. Applications
 - Environmental monitoring
