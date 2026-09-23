@@ -77,11 +77,11 @@ Output screenshot: [Wowki_Output](wowki_output1.png)
 12. Team Members' Details
 Name: Keerthi A
 Register Number: U03ZW24S0097
-Team Members:
-Sreethan , Jewel Mary Jibi,Thejaswini.C
 
-13. Wokwi Project Link
+Team Members:Sreethan , Jewel Mary Jibi,Thejaswini.C
+
+14. Wokwi Project Link
 https://wokwi.com/projects/475682178620641281
 
-14. ThingSpeak Channel Link
+15. ThingSpeak Channel Link
 https://thingspeak.mathworks.com/channels/3500612/private_show
